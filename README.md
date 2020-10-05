@@ -1,2 +1,2 @@
 # mit_git_repo
-Repo for MIT assignment
+Repo for MIT assignment. WELCOME!!!
